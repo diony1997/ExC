@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544573244 source:c:\users\user58\desktop\c\aps\main.cpp
+	<iostream>
+	<string.h>
+
